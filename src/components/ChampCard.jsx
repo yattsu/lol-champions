@@ -17,8 +17,6 @@ export const ChampCard = ({ data, handleShowChampCard }) => {
     >
       <Flex
         position='relative'
-        w='80%'
-        h='70%'
         bg='gray.800'
         color='gray.300'
         w={['100%', '100%', '80%', '80%', '60%', '60%']}
