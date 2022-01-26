@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/lol-champions/static/js/main.16c09dcb.js",
+    "main.js": "/lol-champions/static/js/main.854bfb86.js",
     "static/media/poppy.jpg": "/lol-champions/static/media/poppy.5c3cb9c724b4a5ccec23.jpg",
     "index.html": "/lol-champions/index.html",
-    "main.16c09dcb.js.map": "/lol-champions/static/js/main.16c09dcb.js.map"
+    "main.854bfb86.js.map": "/lol-champions/static/js/main.854bfb86.js.map"
   },
   "entrypoints": [
-    "static/js/main.16c09dcb.js"
+    "static/js/main.854bfb86.js"
   ]
 }
